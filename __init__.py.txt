@@ -1,0 +1,4 @@
+from .StrokeDetection import StrokeDetection, StrokeDetectionWidget, StrokeDetectionLogic, StrokeDetectionTest
+
+def createStrokeDetectionClass():
+  return StrokeDetection()
